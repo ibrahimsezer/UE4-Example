@@ -1061,3 +1061,1582 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.10-22.40.17:094][306]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2022.07.10-22.40.37:245][366]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2022.07.10-22.40.56:224][422]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.51.29:578][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainFile/Blueprints/AnaKarakter.AnaKarakter
+[2022.07.10-22.51.29:953][ 33]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 126 classes and 0 folders.
+[2022.07.10-22.51.32:107][ 33]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.10-22.51.32:209][ 34]LogSlate: Took 0.000625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.10-22.51.33:683][108]LogSlate: Window 'AnaKarakter' being destroyed
+[2022.07.10-22.51.35:150][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainFile/Blueprints/MyGameMode.MyGameMode
+[2022.07.10-22.58.51:904][644]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.10-22.58.51:920][644]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.10-22.58.51:942][644]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.10-22.58.53:091][755]LogContentBrowser: Attempting asset rename: NewBlueprint -> puan
+[2022.07.10-22.58.53:241][755]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.10-22.58.54:490][852]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-22.58.55:250][853]LogRenderer: Reallocating scene render targets to support 848x720 Format 10 NumSamples 1 (Frame:1).
+[2022.07.10-22.59.04:774][574]BlueprintLog: New page: Compile puan
+[2022.07.10-22.59.04:907][574]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2022.07.10-22.59.05:394][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-22.59.05:411][595]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puanB272ECD44A515596310DBB9EC21F036C.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-22.59.06:581][595]AssetCheck: New page: Asset Save: puan
+[2022.07.10-22.59.06:581][595]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.00.51:246][223]LogSlate: Took 0.017253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.07.10-23.00.52:783][388]BlueprintLog: New page: Compile AnaKarakter
+[2022.07.10-23.00.52:918][388]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2022.07.10-23.00.53:415][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/AnaKarakter" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/AnaKarakter.uasset" SILENT=true
+[2022.07.10-23.00.53:440][417]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaKarakter0E1542F545FC0A5BD9DE0C9479B02FAF.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/AnaKarakter.uasset'
+[2022.07.10-23.00.53:467][417]AssetCheck: New page: Asset Save: AnaKarakter
+[2022.07.10-23.00.53:467][417]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/AnaKarakter.AnaKarakter
+[2022.07.10-23.01.50:471][425]BlueprintLog: New page: Compile puan
+[2022.07.10-23.01.50:617][425]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2022.07.10-23.01.51:182][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.01.51:205][464]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan147758C94AECFFE3C526ADA372F658A1.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.01.51:224][464]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.01.51:224][464]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.01.53:369][649]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.01.53:385][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.01.53:385][649]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:01:53)
+[2022.07.10-23.01.53:388][649]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.07.10-23.01.53:390][649]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.10-23.01.53:390][649]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.01.53:408][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018231s)
+[2022.07.10-23.01.53:410][649]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.01.53:410][649]LogPlayLevel: PIE: World Init took: (0.001951s)
+[2022.07.10-23.01.53:411][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.020428s)
+[2022.07.10-23.01.53:491][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2022.07.10-23.01.53:492][649]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.10-23.01.53:492][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.01.53:492][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.01.53:492][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.01.53:492][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.01.53:492][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.01.53:492][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.01.53:492][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.01.53:492][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.01.53:493][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.01.53:493][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.01.53:493][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.01.53:493][649]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.01.53:501][649]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.01.53:501][649]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.01.53:522][649]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.01.53:523][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.01.53:523][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.01.53:523][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.01.53:524][649]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.01.53:524][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.01.53:524][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.01.53:527][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.01.53:527][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.01.53:527][649]LogInit: FAudioDevice initialized.
+[2022.07.10-23.01.53:527][649]LogAudio: Display: Audio Device (ID: 2) registered with world 'AnaHarita'.
+[2022.07.10-23.01.53:544][649]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.01.53:548][649]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.01.53
+[2022.07.10-23.01.53:549][649]LogWorld: Bringing up level for play took: 0.002736
+[2022.07.10-23.01.53:549][649]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.07.10-23.01.53:562][649]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2022.07.10-23.01.53:564][649]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.01.53:564][649]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.01.53:565][649]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.01.53:565][649]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.01.53:565][649]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.01.53:565][649]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.01.53:566][649]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.01.53:566][649]r.LightFunctionQuality = "1"
+[2022.07.10-23.01.53:566][649]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.01.53:567][649]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.01.53:567][649]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.01.53:567][649]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.01.53:567][649]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.01.53:567][649]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.01.53:574][649]PIE: Server logged in
+[2022.07.10-23.01.53:576][649]PIE: Play in editor total start time 0,198 seconds.
+[2022.07.10-23.01.59:323][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.01.59:323][ 66]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.01.59:323][ 66]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.01.59:323][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.01.59:337][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.01.59:360][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.01.59:443][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.01.59:443][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.01.59:445][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.01.59:449][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.01.59:508][ 66]LogUObjectHash: Compacting FUObjectHashTables data took  10.69ms
+[2022.07.10-23.01.59:551][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.07.10-23.02.16:553][782]BlueprintLog: New page: Compile puan
+[2022.07.10-23.02.16:737][782]LogUObjectHash: Compacting FUObjectHashTables data took   9.76ms
+[2022.07.10-23.02.17:121][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.02.17:142][800]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan356759604007B1E04371318B59F0F330.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.02.17:167][800]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.02.17:167][800]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.02.26:346][642]Cmd: TRANSACTION UNDO
+[2022.07.10-23.02.26:368][642]LogEditorTransaction: Undo Move Actors
+[2022.07.10-23.02.48:722][906]Cmd: TRANSACTION UNDO
+[2022.07.10-23.02.48:722][906]LogEditorTransaction: Undo Move Actors
+[2022.07.10-23.03.11:807][256]BlueprintLog: New page: Compile puan
+[2022.07.10-23.03.11:987][256]LogUObjectHash: Compacting FUObjectHashTables data took  10.34ms
+[2022.07.10-23.03.12:537][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.03.12:564][291]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan82E2E9C24473956DB7D9B5A04E0D51E2.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.03.12:595][291]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.03.12:595][291]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.03.18:296][902]BlueprintLog: New page: Compile puan
+[2022.07.10-23.03.18:473][902]LogUObjectHash: Compacting FUObjectHashTables data took  10.20ms
+[2022.07.10-23.03.20:044][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.03.20:056][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.03.20:056][ 20]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:03:20)
+[2022.07.10-23.03.20:056][ 20]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.03.20:075][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018615s)
+[2022.07.10-23.03.20:077][ 20]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.03.20:077][ 20]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2022.07.10-23.03.20:077][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.020630s)
+[2022.07.10-23.03.20:175][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2022.07.10-23.03.20:178][ 20]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.10-23.03.20:178][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.03.20:178][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.03.20:178][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.03.20:178][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.03.20:178][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.03.20:178][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.03.20:178][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.03.20:178][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.03.20:179][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.03.20:179][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.03.20:179][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.03.20:179][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.03.20:185][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.03.20:185][ 20]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.03.20:204][ 20]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.03.20:205][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.03.20:205][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.03.20:205][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.03.20:206][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.03.20:206][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.03.20:206][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.03.20:208][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.03.20:208][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.03.20:208][ 20]LogInit: FAudioDevice initialized.
+[2022.07.10-23.03.20:208][ 20]LogAudio: Display: Audio Device (ID: 3) registered with world 'AnaHarita'.
+[2022.07.10-23.03.20:221][ 20]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.03.20:222][ 20]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.03.20
+[2022.07.10-23.03.20:223][ 20]LogWorld: Bringing up level for play took: 0.001622
+[2022.07.10-23.03.20:223][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.07.10-23.03.20:228][ 20]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.03.20:228][ 20]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.03.20:229][ 20]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.03.20:229][ 20]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.03.20:229][ 20]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.03.20:229][ 20]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.03.20:230][ 20]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.03.20:230][ 20]r.LightFunctionQuality = "1"
+[2022.07.10-23.03.20:230][ 20]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.03.20:230][ 20]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.03.20:230][ 20]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.03.20:231][ 20]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.03.20:231][ 20]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.03.20:231][ 20]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.03.20:237][ 20]PIE: Server logged in
+[2022.07.10-23.03.20:239][ 20]PIE: Play in editor total start time 0,185 seconds.
+[2022.07.10-23.03.24:139][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.03.24:140][366]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.03.24:140][366]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.03.24:140][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.03.24:159][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.03.24:178][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.03.24:271][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.03.24:271][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.03.24:273][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.03.24:288][366]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2022.07.10-23.03.24:335][367]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.07.10-23.03.43:568][344]LogRenderer: Reallocating scene render targets to support 892x720 Format 10 NumSamples 1 (Frame:2284).
+[2022.07.10-23.03.49:462][820]BlueprintLog: New page: Compile puan
+[2022.07.10-23.03.49:639][820]LogUObjectHash: Compacting FUObjectHashTables data took   8.98ms
+[2022.07.10-23.03.50:079][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.03.50:106][833]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puanA03A4A5A41F6522365D18297AF4EEC2E.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.03.50:128][833]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.03.50:128][833]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.03.54:216][149]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.03.54:229][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.03.54:229][149]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:03:54)
+[2022.07.10-23.03.54:229][149]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.03.54:247][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018373s)
+[2022.07.10-23.03.54:249][149]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.03.54:249][149]LogPlayLevel: PIE: World Init took: (0.001886s)
+[2022.07.10-23.03.54:250][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.020488s)
+[2022.07.10-23.03.54:349][149]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2022.07.10-23.03.54:351][149]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.07.10-23.03.54:351][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.03.54:351][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.03.54:351][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.03.54:351][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.03.54:351][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.03.54:351][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.03.54:351][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.03.54:352][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.03.54:352][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.03.54:352][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.03.54:352][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.03.54:352][149]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.03.54:358][149]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.03.54:358][149]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.03.54:377][149]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.03.54:378][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.03.54:378][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.03.54:378][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.03.54:379][149]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.03.54:379][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.03.54:379][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.03.54:381][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.03.54:381][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.03.54:381][149]LogInit: FAudioDevice initialized.
+[2022.07.10-23.03.54:381][149]LogAudio: Display: Audio Device (ID: 4) registered with world 'AnaHarita'.
+[2022.07.10-23.03.54:396][149]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.03.54:398][149]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.03.54
+[2022.07.10-23.03.54:399][149]LogWorld: Bringing up level for play took: 0.002424
+[2022.07.10-23.03.54:399][149]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.07.10-23.03.54:404][149]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.03.54:404][149]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.03.54:404][149]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.03.54:404][149]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.03.54:404][149]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.03.54:405][149]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.03.54:405][149]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.03.54:406][149]r.LightFunctionQuality = "1"
+[2022.07.10-23.03.54:406][149]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.03.54:406][149]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.03.54:406][149]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.03.54:406][149]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.03.54:406][149]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.03.54:406][149]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.03.54:414][149]PIE: Server logged in
+[2022.07.10-23.03.54:415][149]PIE: Play in editor total start time 0,188 seconds.
+[2022.07.10-23.04.01:399][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.04.01:399][797]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.04.01:400][797]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.04.01:400][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.04.01:414][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.04.01:434][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.04.01:528][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.04.01:528][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.04.01:530][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.04.01:543][797]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2022.07.10-23.04.01:589][798]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.07.10-23.04.09:693][490]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.04.09:693][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.05.32:723][117]BlueprintLog: New page: Compile puan
+[2022.07.10-23.05.32:908][117]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2022.07.10-23.05.33:535][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.05.33:562][160]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puanDAAAA72D42B2622B9F8B8FA427733FFB.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.05.33:597][160]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.05.33:597][160]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.05.41:736][981]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.05.41:748][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.05.41:748][981]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:05:41)
+[2022.07.10-23.05.41:748][981]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.05.41:767][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018635s)
+[2022.07.10-23.05.41:768][981]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.05.41:768][981]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2022.07.10-23.05.41:769][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.020531s)
+[2022.07.10-23.05.41:870][981]LogUObjectHash: Compacting FUObjectHashTables data took   9.58ms
+[2022.07.10-23.05.41:871][981]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.07.10-23.05.41:871][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.05.41:872][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.05.41:872][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.05.41:872][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.05.41:872][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.05.41:872][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.05.41:872][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.05.41:872][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.05.41:872][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.05.41:873][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.05.41:873][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.05.41:873][981]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.05.41:879][981]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.05.41:879][981]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.05.41:899][981]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.05.41:900][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.05.41:900][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.05.41:900][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.05.41:901][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.05.41:901][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.05.41:901][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.05.41:903][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.05.41:903][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.05.41:903][981]LogInit: FAudioDevice initialized.
+[2022.07.10-23.05.41:903][981]LogAudio: Display: Audio Device (ID: 5) registered with world 'AnaHarita'.
+[2022.07.10-23.05.41:917][981]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.05.41:919][981]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.05.41
+[2022.07.10-23.05.41:920][981]LogWorld: Bringing up level for play took: 0.001740
+[2022.07.10-23.05.41:920][981]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.07.10-23.05.41:989][981]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.05.41:990][981]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.05.41:990][981]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.05.41:991][981]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.05.41:991][981]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.05.41:991][981]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.05.41:992][981]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.05.41:992][981]r.LightFunctionQuality = "1"
+[2022.07.10-23.05.41:992][981]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.05.41:992][981]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.05.41:992][981]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.05.41:992][981]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.05.41:992][981]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.05.41:992][981]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.05.41:999][981]PIE: Server logged in
+[2022.07.10-23.05.42:000][981]PIE: Play in editor total start time 0,254 seconds.
+[2022.07.10-23.05.50:889][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.05.50:889][822]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.05.50:890][822]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.05.50:890][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.05.50:906][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.05.50:926][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.05.51:012][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.05.51:013][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.05.51:014][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.05.51:018][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.05.51:028][822]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2022.07.10-23.05.51:078][823]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.07.10-23.07.05:346][605]BlueprintLog: New page: Compile puan
+[2022.07.10-23.07.05:525][605]LogUObjectHash: Compacting FUObjectHashTables data took  12.17ms
+[2022.07.10-23.07.06:027][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.07.06:058][633]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan7AA0A8004CF44BA2252FD899BD9954DB.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.07.06:098][633]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.07.06:098][633]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.07.15:295][539]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.07.15:306][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.07.15:306][539]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:07:15)
+[2022.07.10-23.07.15:307][539]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.07.15:326][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019551s)
+[2022.07.10-23.07.15:328][539]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.07.15:328][539]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2022.07.10-23.07.15:328][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.021753s)
+[2022.07.10-23.07.15:425][539]LogUObjectHash: Compacting FUObjectHashTables data took   9.79ms
+[2022.07.10-23.07.15:426][539]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.10-23.07.15:426][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.07.15:426][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.07.15:426][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.07.15:426][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.07.15:426][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.07.15:426][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.07.15:426][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.07.15:426][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.07.15:427][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.07.15:427][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.07.15:427][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.07.15:427][539]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.07.15:433][539]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.07.15:433][539]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.07.15:451][539]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.07.15:452][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.07.15:452][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.07.15:452][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.07.15:453][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.07.15:453][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.07.15:453][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.07.15:455][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.07.15:455][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.07.15:455][539]LogInit: FAudioDevice initialized.
+[2022.07.10-23.07.15:455][539]LogAudio: Display: Audio Device (ID: 6) registered with world 'AnaHarita'.
+[2022.07.10-23.07.15:472][539]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.07.15:474][539]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.07.15
+[2022.07.10-23.07.15:475][539]LogWorld: Bringing up level for play took: 0.001686
+[2022.07.10-23.07.15:475][539]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.07.10-23.07.15:479][539]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.07.15:479][539]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.07.15:480][539]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.07.15:480][539]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.07.15:480][539]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.07.15:480][539]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.07.15:481][539]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.07.15:481][539]r.LightFunctionQuality = "1"
+[2022.07.10-23.07.15:481][539]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.07.15:481][539]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.07.15:482][539]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.07.15:482][539]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.07.15:482][539]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.07.15:482][539]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.07.15:488][539]PIE: Server logged in
+[2022.07.10-23.07.15:490][539]PIE: Play in editor total start time 0,185 seconds.
+[2022.07.10-23.07.38:069][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.07.38:069][830]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.07.38:069][830]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.07.38:070][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.07.38:089][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.07.38:110][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.07.38:193][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.07.38:193][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.07.38:195][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.07.38:247][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.07.38:257][830]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2022.07.10-23.07.38:305][831]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.07.10-23.07.41:036][ 64]Cmd: TRANSACTION UNDO
+[2022.07.10-23.07.41:036][ 64]LogEditorTransaction: Undo Move Actors
+[2022.07.10-23.08.27:074][975]BlueprintLog: New page: Compile puan
+[2022.07.10-23.08.27:253][975]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2022.07.10-23.08.27:701][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.08.27:731][999]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan083A2413462D8E99C0F61A940BAFB3DB.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.08.27:756][999]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.08.27:756][999]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.08.33:579][597]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [Belirtilen modül bulunamadı.]
+[2022.07.10-23.08.34:330][650]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [Eleman bulunamadı.]
+[2022.07.10-23.08.42:665][475]BlueprintLog: New page: Compile puan
+[2022.07.10-23.08.42:842][475]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2022.07.10-23.08.49:366][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.08.49:377][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.08.49:377][ 97]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:08:49)
+[2022.07.10-23.08.49:377][ 97]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.08.49:397][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019461s)
+[2022.07.10-23.08.49:398][ 97]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.08.49:399][ 97]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2022.07.10-23.08.49:399][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.021447s)
+[2022.07.10-23.08.49:498][ 97]LogUObjectHash: Compacting FUObjectHashTables data took  10.23ms
+[2022.07.10-23.08.49:499][ 97]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.10-23.08.49:499][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.08.49:499][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.08.49:499][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.08.49:499][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.08.49:499][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.08.49:499][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.08.49:499][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.08.49:499][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.08.49:500][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.08.49:500][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.08.49:500][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.08.49:500][ 97]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.08.49:506][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.08.49:506][ 97]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.08.49:525][ 97]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.08.49:525][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.08.49:526][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.08.49:526][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.08.49:527][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.08.49:527][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.08.49:527][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.08.49:529][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.08.49:529][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.08.49:529][ 97]LogInit: FAudioDevice initialized.
+[2022.07.10-23.08.49:529][ 97]LogAudio: Display: Audio Device (ID: 7) registered with world 'AnaHarita'.
+[2022.07.10-23.08.49:544][ 97]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.08.49:545][ 97]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.08.49
+[2022.07.10-23.08.49:546][ 97]LogWorld: Bringing up level for play took: 0.001734
+[2022.07.10-23.08.49:546][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.07.10-23.08.49:551][ 97]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.08.49:552][ 97]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.08.49:552][ 97]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.08.49:553][ 97]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.08.49:553][ 97]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.08.49:553][ 97]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.08.49:554][ 97]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.08.49:554][ 97]r.LightFunctionQuality = "1"
+[2022.07.10-23.08.49:554][ 97]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.08.49:554][ 97]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.08.49:554][ 97]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.08.49:554][ 97]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.08.49:554][ 97]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.08.49:554][ 97]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.08.49:562][ 97]PIE: Server logged in
+[2022.07.10-23.08.49:563][ 97]PIE: Play in editor total start time 0,188 seconds.
+[2022.07.10-23.08.55:908][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.08.55:909][725]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.08.55:909][725]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.08.55:909][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.08.55:929][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.08.55:947][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.08.56:036][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.08.56:036][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.08.56:038][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.08.56:042][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.08.56:052][725]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2022.07.10-23.08.56:099][726]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.07.10-23.09.03:549][477]BlueprintLog: New page: Compile puan
+[2022.07.10-23.09.03:723][477]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2022.07.10-23.09.04:266][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.09.04:288][513]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan5B579BB74A29E6EC856D35908BBDFF17.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.09.04:308][513]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.09.04:308][513]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.09.20:614][130]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.10-23.09.20:634][130]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.10-23.09.20:658][130]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.10-23.09.22:502][316]LogContentBrowser: Attempting asset rename: NewBlueprint -> teleport
+[2022.07.10-23.09.22:666][316]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.10-23.09.23:835][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.09.42:883][629]BlueprintLog: New page: Compile teleport
+[2022.07.10-23.09.43:048][629]LogUObjectHash: Compacting FUObjectHashTables data took  10.59ms
+[2022.07.10-23.09.43:557][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.09.43:573][650]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleport3D8645D84E26ED975B26A082849F9E0D.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.09.44:731][650]AssetCheck: New page: Asset Save: teleport
+[2022.07.10-23.09.44:732][650]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.09.57:550][639]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.07.10-23.09.57:578][639]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.07.10-23.10.01:381][878]LogContentBrowser: Attempting asset rename: NewMaterial -> teleportmat
+[2022.07.10-23.10.01:561][878]LogContentBrowser: End creating deferred item NewMaterial
+[2022.07.10-23.10.28:338][929]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MainFile/Blueprints/teleportmat.teleportmat
+[2022.07.10-23.10.28:407][929]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: D7CB64ACB822CFC2A379D7FDDE11581FD3266306), compiling. 
+[2022.07.10-23.10.28:466][929]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.28:680][929]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.07.10-23.10.28:943][929]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.07.10-23.10.29:403][929]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: BB2041199CE5B77DCCF272BEA3D695DD931FC175), compiling. 
+[2022.07.10-23.10.29:440][929]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.10.29:595][929]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.29:595][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.10-23.10.29:595][929]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.29:595][929]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.29:595][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.10-23.10.29:595][929]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.29:595][929]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.10-23.10.32:167][176]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: BD9DA1DA902BFE229EBF07CF60DE7C18788E42AC), compiling. 
+[2022.07.10-23.10.32:171][176]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 97C7969C56D318ED8DA71B87FB00C8BAEBBFF4B8), compiling. 
+[2022.07.10-23.10.32:310][176]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.10-23.10.32:310][176]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.07.10-23.10.32:310][176]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.07.10-23.10.32:310][176]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.10-23.10.32:310][176]LogShaderCompilers: Display: ================================================
+[2022.07.10-23.10.32:362][177]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.32:362][177]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.10-23.10.32:362][177]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.32:391][178]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.32:407][178]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.10.34:461][354]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 7B4EBC3855C7C1C8978DE2FC0E90787E99F0A4D0), compiling. 
+[2022.07.10-23.10.34:466][354]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3859C374CB822927F93A42E3A91B49F05869DE9B), compiling. 
+[2022.07.10-23.10.34:473][354]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.10.34:530][355]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.34:534][355]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.34:549][356]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.10.36:109][490]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.10-23.10.36:110][490]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.36:335][510]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.07.10-23.10.36:335][510]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.38:378][659]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.10-23.10.38:378][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.10-23.10.38:378][659]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.10-23.10.38:378][659]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.10.41:476][966]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 31B9D7D3588AACED7E29D1ECF5237079F8A4692C), compiling. 
+[2022.07.10-23.10.41:479][966]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3339CDE7B0F07AB251B79A546FF16099C0CFCF6E), compiling. 
+[2022.07.10-23.10.41:507][966]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.10.41:559][968]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.10-23.10.41:559][968]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.10-23.10.41:559][968]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.10-23.10.41:559][968]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.10.41:901][  4]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: AD4C736C9F6AEBB694E2F7BFF48E694A101C93BC), compiling. 
+[2022.07.10-23.10.41:904][  4]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4622E92122A0572F79679202E701A426D2814FD8), compiling. 
+[2022.07.10-23.10.41:907][  4]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.10-23.10.41:920][  4]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.10.41:964][  6]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.10.41:988][  7]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.10-23.10.41:988][  7]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.10-23.10.41:988][  7]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.10-23.10.41:988][  7]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.10.44:841][331]LogMaterialEditor: Saving and Compiling material teleportmat
+[2022.07.10-23.10.45:665][331]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 433783C33ACBE75AC6ACC9E95162AD203EAC9019), compiling. 
+[2022.07.10-23.10.45:704][331]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 66EDF9D4FEAA76B1EEB29AF1ABAA6E49E15FABC9), compiling. 
+[2022.07.10-23.10.45:809][331]LogUObjectHash: Compacting FUObjectHashTables data took   9.68ms
+[2022.07.10-23.10.45:822][331]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.46:236][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.10-23.10.46:237][331]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.46:237][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.07.10-23.10.46:504][331]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.46:507][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.07.10-23.10.46:507][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.07.10-23.10.46:507][331]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.46:528][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleportmat" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat.uasset" SILENT=true
+[2022.07.10-23.10.46:540][331]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportmatF68A7FF74DD4A0455759CFA87F5D6E57.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat.uasset'
+[2022.07.10-23.10.48:260][331]AssetCheck: New page: Asset Save: teleportmat
+[2022.07.10-23.10.48:261][331]LogContentValidation: Display: Validating Material /Game/MainFile/Blueprints/teleportmat.teleportmat
+[2022.07.10-23.10.48:274][331]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.10-23.10.49:116][413]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.10-23.10.49:116][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.10-23.10.49:116][413]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.10-23.10.49:116][413]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.10-23.10.51:853][714]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 920C13C986CE5A22355DB8A9D38B384222354B13), compiling. 
+[2022.07.10-23.10.51:856][714]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D70A0396EBA1F579C5F86DB40F6E36EBC3491A41), compiling. 
+[2022.07.10-23.10.51:859][714]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FFE040C3CDBF1155003CF391D0B3F4E0E6F264E6), compiling. 
+[2022.07.10-23.10.51:878][714]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 6B6D9F56F482D22F87AAAF97B7AA7B4A41F7FFA9), compiling. 
+[2022.07.10-23.10.51:881][714]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 187FA517AEC4FC5F6997E7369E7884ED57C9BD4D), compiling. 
+[2022.07.10-23.10.51:898][714]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.10.51:951][715]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.51:951][715]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.10-23.10.51:951][715]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.51:951][715]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.51:951][715]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.10-23.10.51:951][715]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.51:972][716]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.53:962][900]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.10-23.10.53:963][900]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.53:979][901]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.10.55:536][ 30]LogMaterialEditor: Saving and Compiling material teleportmat
+[2022.07.10-23.10.56:497][ 30]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.10-23.10.56:497][ 30]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.56:525][ 30]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 6CE71773C81F7DC0695A653080A8FDCBCC17147A), compiling. 
+[2022.07.10-23.10.56:580][ 30]LogMaterial: Display: Missing cached shadermap for teleportmat in PCD3D_SM5, Default, SM5 (DDC key hash: 85CEF0FEA2559C2640E8FED26BE032EBBF303BB0), compiling. 
+[2022.07.10-23.10.56:695][ 30]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.56:695][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2022.07.10-23.10.56:704][ 30]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.57:318][ 30]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.07.10-23.10.57:318][ 30]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.10.57:318][ 30]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.07.10-23.10.57:318][ 30]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.57:318][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.07.10-23.10.57:567][ 30]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.57:567][ 30]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.07.10-23.10.57:567][ 30]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.57:591][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleportmat" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat.uasset" SILENT=true
+[2022.07.10-23.10.57:605][ 30]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportmat10F1C9694F1F770BF3EE4ABA31008989.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat.uasset'
+[2022.07.10-23.10.57:631][ 30]AssetCheck: New page: Asset Save: teleportmat
+[2022.07.10-23.10.57:631][ 30]LogContentValidation: Display: Validating Material /Game/MainFile/Blueprints/teleportmat.teleportmat
+[2022.07.10-23.10.58:649][105]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.07.10-23.10.58:649][105]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.10.58:883][123]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.10.58:883][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.11.03:101][366]LogContentBrowser: Deferred new asset file creation: teleportmat_Inst
+[2022.07.10-23.11.03:129][366]LogContentBrowser: Creating deferred item: teleportmat_Inst
+[2022.07.10-23.11.04:241][448]LogContentBrowser: Attempting asset rename: teleportmat_Inst -> teleportmat_Inst
+[2022.07.10-23.11.04:400][448]LogContentBrowser: End creating deferred item teleportmat_Inst
+[2022.07.10-23.11.10:733][784]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineMaterials: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.10:734][784]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/MapTemplates/Materials: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/MapTemplates/Materials' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.10:734][784]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.10:734][784]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.15:277][ 53]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineMaterials: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.15:277][ 53]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/MapTemplates/Materials: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/MapTemplates/Materials' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.15:277][ 53]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.15:277][ 53]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.16:077][ 94]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/VREditor/Teleport: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/VREditor/Teleport' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.11.26:688][640]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MainFile/Blueprints/teleportmat_Inst.teleportmat_Inst
+[2022.07.10-23.11.27:089][640]LogRenderer: Reallocating scene render targets to support 1000x740 Format 10 NumSamples 1 (Frame:1).
+[2022.07.10-23.11.31:012][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleportmat_Inst" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat_Inst.uasset" SILENT=true
+[2022.07.10-23.11.31:199][ 49]LogUObjectHash: Compacting FUObjectHashTables data took  17.55ms
+[2022.07.10-23.11.31:323][ 49]LogUObjectHash: Compacting FUObjectHashTables data took  11.79ms
+[2022.07.10-23.11.31:337][ 49]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportmat_Inst081919A244E88DBB763A46969BEC6ACC.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat_Inst.uasset'
+[2022.07.10-23.11.32:449][ 49]AssetCheck: New page: Asset Save: teleportmat_Inst
+[2022.07.10-23.11.32:449][ 49]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MainFile/Blueprints/teleportmat_Inst.teleportmat_Inst
+[2022.07.10-23.11.41:844][151]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.11.41:844][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.11.56:584][500]BlueprintLog: New page: Compile teleport
+[2022.07.10-23.11.56:803][500]LogUObjectHash: Compacting FUObjectHashTables data took  11.64ms
+[2022.07.10-23.11.57:340][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.11.57:355][526]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleport8F6FAA16413D89D74759A0A3163D1BBE.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.11.57:382][526]AssetCheck: New page: Asset Save: teleport
+[2022.07.10-23.11.57:382][526]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.12.00:087][728]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.12.00:105][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.12.00:105][728]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:12:00)
+[2022.07.10-23.12.00:105][728]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.12.00:126][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020316s)
+[2022.07.10-23.12.00:127][728]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.12.00:128][728]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2022.07.10-23.12.00:128][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.022497s)
+[2022.07.10-23.12.00:246][728]LogUObjectHash: Compacting FUObjectHashTables data took  12.55ms
+[2022.07.10-23.12.00:249][728]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.07.10-23.12.00:249][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.12.00:250][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.12.00:250][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.12.00:250][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.12.00:250][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.12.00:250][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.12.00:250][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.12.00:250][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.12.00:251][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.12.00:251][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.12.00:251][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.12.00:251][728]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.12.00:257][728]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.12.00:257][728]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.12.00:276][728]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.12.00:276][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.12.00:277][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.12.00:277][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.12.00:278][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.12.00:278][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.12.00:278][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.12.00:280][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.12.00:280][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.12.00:280][728]LogInit: FAudioDevice initialized.
+[2022.07.10-23.12.00:280][728]LogAudio: Display: Audio Device (ID: 8) registered with world 'AnaHarita'.
+[2022.07.10-23.12.00:293][728]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.12.00:294][728]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.12.00
+[2022.07.10-23.12.00:295][728]LogWorld: Bringing up level for play took: 0.001817
+[2022.07.10-23.12.00:296][728]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.07.10-23.12.00:301][728]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.12.00:301][728]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.12.00:301][728]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.12.00:302][728]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.12.00:302][728]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.12.00:302][728]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.12.00:303][728]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.12.00:303][728]r.LightFunctionQuality = "1"
+[2022.07.10-23.12.00:303][728]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.12.00:303][728]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.12.00:303][728]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.12.00:303][728]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.12.00:303][728]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.12.00:303][728]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.12.00:311][728]PIE: Server logged in
+[2022.07.10-23.12.00:312][728]PIE: Play in editor total start time 0,211 seconds.
+[2022.07.10-23.12.04:809][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.12.04:809][128]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.12.04:809][128]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.12.04:809][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.12.04:829][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.12.04:850][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.12.04:957][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.12.04:957][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.12.04:959][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.12.04:962][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.12.04:974][128]LogUObjectHash: Compacting FUObjectHashTables data took   9.81ms
+[2022.07.10-23.12.05:021][129]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.07.10-23.12.06:806][261]LogEditorViewport: Clicking on Actor (LMB): puan_C (puan)
+[2022.07.10-23.12.35:237][895]LogEditorViewport: Clicking on Actor (LMB): teleport_C (teleport)
+[2022.07.10-23.12.58:263][328]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.07.10-23.12.58:303][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyGameStateBase.MyGameStateBase
+[2022.07.10-23.13.04:861][925]BlueprintLog: New page: Compile MyGameStateBase
+[2022.07.10-23.13.05:061][925]LogUObjectHash: Compacting FUObjectHashTables data took  13.50ms
+[2022.07.10-23.13.05:585][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGameStateBase" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/Blueprints/MyGameStateBase.uasset" SILENT=true
+[2022.07.10-23.13.05:593][964]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/MyGameStateBase0915822C4AAB81DE46C3CC898C0FF4C3.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/Blueprints/MyGameStateBase.uasset'
+[2022.07.10-23.13.06:746][964]AssetCheck: New page: Asset Save: MyGameStateBase
+[2022.07.10-23.13.06:747][964]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MyGameStateBase.MyGameStateBase
+[2022.07.10-23.13.09:220][102]LogSlate: Window 'Delete Variable' being destroyed
+[2022.07.10-23.13.09:994][183]BlueprintLog: New page: Compile AnaKarakter
+[2022.07.10-23.13.10:206][183]LogUObjectHash: Compacting FUObjectHashTables data took  14.61ms
+[2022.07.10-23.13.10:711][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/AnaKarakter" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/AnaKarakter.uasset" SILENT=true
+[2022.07.10-23.13.10:733][213]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaKarakter15F535F044A163367395108CD96DE658.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/AnaKarakter.uasset'
+[2022.07.10-23.13.10:759][213]AssetCheck: New page: Asset Save: AnaKarakter
+[2022.07.10-23.13.10:759][213]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/AnaKarakter.AnaKarakter
+[2022.07.10-23.13.14:857][640]BlueprintLog: New page: Compile puan
+[2022.07.10-23.13.15:062][640]LogUObjectHash: Compacting FUObjectHashTables data took  14.66ms
+[2022.07.10-23.13.15:442][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.13.15:458][659]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puanAB149B8C4650F04BCA3B0AB5B23B1330.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.13.15:488][659]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.13.15:488][659]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.13.18:825][957]LogEditorViewport: Clicking on Actor (LMB): puan_C (puan)
+[2022.07.10-23.14.00:056][253]BlueprintLog: New page: Compile puan
+[2022.07.10-23.14.00:277][253]LogUObjectHash: Compacting FUObjectHashTables data took  14.53ms
+[2022.07.10-23.14.00:771][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.14.00:794][276]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puanA43E0EE94B1A9C04317998B472B6C542.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.14.00:822][276]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.14.00:822][276]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.14.20:169][107]LogEditorViewport: Clicking on Actor (LMB): teleport_C (teleport)
+[2022.07.10-23.14.26:371][646]BlueprintLog: New page: Compile teleport
+[2022.07.10-23.14.26:582][646]LogUObjectHash: Compacting FUObjectHashTables data took  12.74ms
+[2022.07.10-23.14.26:884][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.14.26:899][655]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleport911B2CCE4FBEE6D50D34899AFAAD17F6.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.14.26:932][655]AssetCheck: New page: Asset Save: teleport
+[2022.07.10-23.14.26:933][655]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.15.12:271][160]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MainFile/Blueprints/teleportmat_Inst.teleportmat_Inst
+[2022.07.10-23.16.37:165][919]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MainFile/Blueprints/teleportmat.teleportmat
+[2022.07.10-23.16.37:167][919]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F006A73F4F7A6CD5958A82317FE1C708B661630), compiling. 
+[2022.07.10-23.16.37:184][919]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.10-23.16.37:289][919]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 932522A40F43B78D5EA806C00E63871CE3CAA252), compiling. 
+[2022.07.10-23.16.37:294][919]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F0F840EB0E8173B13F41B778D44E3A7A41AB79C2), compiling. 
+[2022.07.10-23.16.37:297][919]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 77CB285E5A4E9A6B0E9E97F5EA73E77C85A41B42), compiling. 
+[2022.07.10-23.16.37:321][919]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.16.37:462][920]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.16.37:462][920]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.10-23.16.37:462][920]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.16.37:462][920]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.10-23.16.37:463][920]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.10-23.16.37:463][920]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.16.37:563][926]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.10-23.16.37:563][926]LogShaderCompilers: Display: Total job queries 167, among them cache hits 73 (43.71%)
+[2022.07.10-23.16.37:563][926]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 26 distinct outputs (72.22%)
+[2022.07.10-23.16.37:563][926]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.07.10-23.16.37:563][926]LogShaderCompilers: Display: ================================================
+[2022.07.10-23.16.39:880][142]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.10-23.16.39:880][142]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.16.39:893][143]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.16.42:015][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.10-23.16.42:015][333]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.16.44:489][539]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.07.10-23.16.44:489][539]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.07.10-23.16.44:489][539]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.10-23.16.44:489][539]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.17.40:050][428]BlueprintLog: New page: Compile teleport
+[2022.07.10-23.17.40:273][428]LogUObjectHash: Compacting FUObjectHashTables data took  14.98ms
+[2022.07.10-23.17.40:733][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.17.40:755][451]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportE520E950402062C3850A8CA956B81FB0.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.17.40:781][451]AssetCheck: New page: Asset Save: teleport
+[2022.07.10-23.17.40:781][451]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.17.42:348][545]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.17.42:360][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.17.42:360][545]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:17:42)
+[2022.07.10-23.17.42:396][545]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.17.42:417][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020242s)
+[2022.07.10-23.17.42:418][545]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.17.42:419][545]LogPlayLevel: PIE: World Init took: (0.002222s)
+[2022.07.10-23.17.42:419][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.022790s)
+[2022.07.10-23.17.42:547][545]LogUObjectHash: Compacting FUObjectHashTables data took  13.09ms
+[2022.07.10-23.17.42:550][545]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.10-23.17.42:550][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.17.42:550][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.17.42:550][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.17.42:550][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.17.42:550][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.17.42:551][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.17.42:551][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.17.42:551][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.17.42:552][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.17.42:552][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.17.42:552][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.17.42:552][545]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.17.42:559][545]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.17.42:559][545]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.17.42:579][545]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.17.42:579][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.17.42:579][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.17.42:579][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.17.42:580][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.17.42:581][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.17.42:581][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.17.42:583][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.17.42:583][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.17.42:583][545]LogInit: FAudioDevice initialized.
+[2022.07.10-23.17.42:583][545]LogAudio: Display: Audio Device (ID: 9) registered with world 'AnaHarita'.
+[2022.07.10-23.17.42:598][545]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.17.42:600][545]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.17.42
+[2022.07.10-23.17.42:601][545]LogWorld: Bringing up level for play took: 0.001694
+[2022.07.10-23.17.42:601][545]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.07.10-23.17.42:605][545]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.17.42:606][545]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.17.42:606][545]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.17.42:606][545]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.17.42:606][545]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.17.42:606][545]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.17.42:607][545]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.17.42:607][545]r.LightFunctionQuality = "1"
+[2022.07.10-23.17.42:607][545]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.17.42:608][545]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.17.42:608][545]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.17.42:608][545]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.17.42:608][545]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.17.42:608][545]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.17.42:614][545]PIE: Server logged in
+[2022.07.10-23.17.42:616][545]PIE: Play in editor total start time 0,258 seconds.
+[2022.07.10-23.17.45:438][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.17.45:438][732]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.17.45:438][732]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.17.45:439][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.17.45:464][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.17.45:487][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.17.45:600][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.17.45:601][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.17.45:603][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.17.45:618][732]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2022.07.10-23.17.45:667][733]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.07.10-23.18.02:867][282]LogUObjectHash: Compacting FUObjectHashTables data took  12.22ms
+[2022.07.10-23.18.04:923][282]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.10-23.18.08:770][513]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineDebugMaterials: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/EngineDebugMaterials' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.18.08:770][513]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/VREditor/Teleport: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/VREditor/Teleport' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.18.08:770][513]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.18.10:071][596]BlueprintLog: New page: Compile teleport
+[2022.07.10-23.18.10:293][596]LogUObjectHash: Compacting FUObjectHashTables data took  11.14ms
+[2022.07.10-23.18.10:672][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.18.10:691][611]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleport9D0DAF68455367EB6C29B6A48FAF71FB.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.18.10:716][611]AssetCheck: New page: Asset Save: teleport
+[2022.07.10-23.18.10:716][611]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.18.13:393][766]LogUObjectHash: Compacting FUObjectHashTables data took  13.58ms
+[2022.07.10-23.18.14:515][766]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.10-23.18.14:758][766]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.18.14:758][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.18.14:789][766]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MainFile/Blueprints/teleportmat_Inst.teleportmat_Inst
+[2022.07.10-23.18.18:110][766]LogUObjectHash: Compacting FUObjectHashTables data took  11.39ms
+[2022.07.10-23.18.18:243][766]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2022.07.10-23.18.18:355][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.07.10-23.18.18:648][766]SourceControl: rm 'Content/MainFile/Blueprints/teleportmat_Inst.uasset'
+[2022.07.10-23.18.20:062][825]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.07.10-23.18.20:101][825]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.07.10-23.18.23:385][982]LogContentBrowser: Attempting asset rename: NewMaterial -> teleportmat2
+[2022.07.10-23.18.23:568][982]LogContentBrowser: End creating deferred item NewMaterial
+[2022.07.10-23.18.24:481][ 27]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MainFile/Blueprints/teleportmat2.teleportmat2
+[2022.07.10-23.18.24:482][ 27]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: A3DBDE097EAAA3083FDF8D19C278B56622110361), compiling. 
+[2022.07.10-23.18.24:500][ 27]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.24:600][ 27]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: D964621614838B56851A5350E5B215B1C697FC43), compiling. 
+[2022.07.10-23.18.24:604][ 27]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: C3477136926B6D4F308C07A781C725A696BF9D0A), compiling. 
+[2022.07.10-23.18.24:630][ 27]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.18.24:704][ 28]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.24:704][ 28]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.10-23.18.24:704][ 28]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.24:704][ 28]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.24:704][ 28]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.10-23.18.24:704][ 28]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.25:898][131]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A2B7C5BFC2101B09A7FAA6DEC9F72EA13C4B1AB), compiling. 
+[2022.07.10-23.18.25:902][131]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E607E886C2229A0C55B0D3016DE3389E463CCA8), compiling. 
+[2022.07.10-23.18.25:931][132]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.27:343][251]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: 92D4A24FEF49F27E39E19A076A14AC2A3C782B86), compiling. 
+[2022.07.10-23.18.27:348][251]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E0946F9934A423D9BA368B0A5930BB6EA24642A), compiling. 
+[2022.07.10-23.18.27:399][251]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.27:948][289]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.10-23.18.27:948][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.27:969][290]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.18.28:629][344]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6959B8C2A74D36A7186B296417B03F0DD503DAF2), compiling. 
+[2022.07.10-23.18.28:633][344]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D0D7B2542A7ED61E31E4A5B76C30D984081A64D), compiling. 
+[2022.07.10-23.18.28:637][344]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.18.28:664][346]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.28:681][346]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.18.29:462][408]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7404754D34E71A2D9DE0A79739C7FA96C2EA5717), compiling. 
+[2022.07.10-23.18.29:467][408]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 20936C3164A5987A9A4ABD2DD5687FDD6E09D788), compiling. 
+[2022.07.10-23.18.29:470][408]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.10-23.18.29:479][408]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.18.29:508][410]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.29:524][410]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.18.30:651][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.10-23.18.30:651][496]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.31:638][577]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: 938AC81597C5F6B178F770A6CD73CBD74CC2875C), compiling. 
+[2022.07.10-23.18.31:642][577]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AF6B477731CAC39B9A099C02E50F6E3B34E7C89), compiling. 
+[2022.07.10-23.18.31:647][577]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.18.31:700][579]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.18.32:110][606]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5126F9F123C4CE94692CF36735F2496FAFBB146E), compiling. 
+[2022.07.10-23.18.32:114][606]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F0C2841C00C7ED1F7CFD1FC2E30D100638BF5FD5), compiling. 
+[2022.07.10-23.18.32:117][606]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.10-23.18.32:127][607]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.32:143][608]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.32:158][608]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.32:419][627]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.07.10-23.18.32:419][627]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.32:549][638]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.07.10-23.18.32:549][638]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.32:666][648]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: BFECB3F060FC3D141DBF48D3AA36FDCDC9200F7F), compiling. 
+[2022.07.10-23.18.32:671][648]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 70C0E66AE491618B9FEE0D1BBB9D5996241C24B4), compiling. 
+[2022.07.10-23.18.32:674][648]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.10-23.18.32:709][650]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.33:479][718]LogMaterialEditor: Saving and Compiling material teleportmat2
+[2022.07.10-23.18.34:479][718]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.10-23.18.34:479][718]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.34:509][718]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: FC17862F62C3791DA12071BFCE29F6255B601C92), compiling. 
+[2022.07.10-23.18.34:554][718]LogMaterial: Display: Missing cached shadermap for teleportmat2 in PCD3D_SM5, Default, SM5 (DDC key hash: 02EC891EEF638BD448D57E04497A302C89593185), compiling. 
+[2022.07.10-23.18.34:679][718]LogShaderCompilers: Display: Submitted 3 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.34:695][718]LogUObjectHash: Compacting FUObjectHashTables data took  13.14ms
+[2022.07.10-23.18.34:712][718]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.37:167][718]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.10-23.18.37:167][718]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.10-23.18.37:167][718]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.10-23.18.37:167][718]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.37:167][718]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.10-23.18.37:167][718]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.37:167][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.07.10-23.18.37:440][718]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.37:440][718]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.07.10-23.18.37:440][718]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.37:461][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleportmat2" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat2.uasset" SILENT=true
+[2022.07.10-23.18.37:474][718]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportmat292D358A74BF1E24046EAB6B95AA2A652.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat2.uasset'
+[2022.07.10-23.18.37:594][718]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.10-23.18.37:594][718]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.10-23.18.39:048][718]AssetCheck: New page: Asset Save: teleportmat2
+[2022.07.10-23.18.39:048][718]LogContentValidation: Display: Validating Material /Game/MainFile/Blueprints/teleportmat2.teleportmat2
+[2022.07.10-23.18.39:070][718]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.10-23.18.39:246][727]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.10-23.18.39:954][790]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.07.10-23.18.39:954][790]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.07.10-23.18.39:954][790]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.10-23.18.39:954][790]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.10-23.18.54:167][201]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.18.54:167][201]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.18.54:167][201]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/EditorLandscapeResources: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.18.58:035][605]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content/VREditor/Teleport: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content/VREditor/Teleport' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.18.58:890][702]BlueprintLog: New page: Compile teleport
+[2022.07.10-23.18.59:107][702]LogUObjectHash: Compacting FUObjectHashTables data took  12.97ms
+[2022.07.10-23.18.59:590][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.18.59:614][728]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleport669BB1D2482379F17F2585ACA395282A.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.18.59:647][728]AssetCheck: New page: Asset Save: teleport
+[2022.07.10-23.18.59:647][728]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.19.06:688][363]LogEditorViewport: Clicking on Actor (LMB): puan_C (puan)
+[2022.07.10-23.19.07:141][395]Cmd: EDIT COPY
+[2022.07.10-23.19.07:354][402]Cmd: EDIT PASTE
+[2022.07.10-23.19.10:542][617]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.19.10:554][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.19.10:554][617]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:19:10)
+[2022.07.10-23.19.10:587][617]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.19.10:606][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019510s)
+[2022.07.10-23.19.10:608][617]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.19.10:608][617]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2022.07.10-23.19.10:608][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.021698s)
+[2022.07.10-23.19.10:735][617]LogUObjectHash: Compacting FUObjectHashTables data took  15.67ms
+[2022.07.10-23.19.10:736][617]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.10-23.19.10:737][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.19.10:737][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.19.10:737][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.19.10:737][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.19.10:737][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.19.10:737][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.19.10:737][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.19.10:737][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.19.10:738][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.19.10:738][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.19.10:738][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.19.10:738][617]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.19.10:743][617]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.19.10:743][617]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.19.10:763][617]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.19.10:763][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.19.10:763][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.19.10:763][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.19.10:764][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.19.10:765][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.19.10:765][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.19.10:767][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.19.10:767][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.19.10:767][617]LogInit: FAudioDevice initialized.
+[2022.07.10-23.19.10:767][617]LogAudio: Display: Audio Device (ID: 10) registered with world 'AnaHarita'.
+[2022.07.10-23.19.10:781][617]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.19.10:783][617]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.19.10
+[2022.07.10-23.19.10:785][617]LogWorld: Bringing up level for play took: 0.002491
+[2022.07.10-23.19.10:785][617]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.07.10-23.19.10:790][617]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.19.10:790][617]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.19.10:790][617]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.19.10:791][617]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.19.10:791][617]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.19.10:791][617]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.19.10:792][617]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.19.10:792][617]r.LightFunctionQuality = "1"
+[2022.07.10-23.19.10:792][617]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.19.10:792][617]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.19.10:792][617]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.19.10:792][617]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.19.10:792][617]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.19.10:793][617]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.19.10:800][617]PIE: Server logged in
+[2022.07.10-23.19.10:801][617]PIE: Play in editor total start time 0,249 seconds.
+[2022.07.10-23.19.19:759][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.19.19:759][273]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.19.19:759][273]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.19.19:759][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.19.19:781][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.19.19:803][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.19.19:914][273]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.19.19:915][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.19.19:917][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.19.19:921][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.19.19:933][273]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2022.07.10-23.19.19:977][274]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.07.10-23.21.18:283][769]BlueprintLog: New page: Compile puan
+[2022.07.10-23.21.18:510][769]LogUObjectHash: Compacting FUObjectHashTables data took  16.41ms
+[2022.07.10-23.21.19:037][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.21.19:067][800]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puanD069D0EF4ACF4973C920C1A897AA7803.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.21.19:096][800]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.21.19:096][800]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.21.41:982][217]BlueprintLog: New page: Compile puan
+[2022.07.10-23.21.42:205][217]LogUObjectHash: Compacting FUObjectHashTables data took  14.42ms
+[2022.07.10-23.21.42:765][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.21.42:793][251]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan0A0F7B314551E01CB29CF9AC32C0C94C.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.21.42:817][251]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.21.42:817][251]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.21.45:750][504]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.21.45:761][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.21.45:762][504]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:21:45)
+[2022.07.10-23.21.45:762][504]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.21.45:781][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019336s)
+[2022.07.10-23.21.45:783][504]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.21.45:783][504]LogPlayLevel: PIE: World Init took: (0.002071s)
+[2022.07.10-23.21.45:783][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.021636s)
+[2022.07.10-23.21.45:901][504]LogUObjectHash: Compacting FUObjectHashTables data took  14.63ms
+[2022.07.10-23.21.45:902][504]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.10-23.21.45:902][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.21.45:902][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.21.45:902][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.21.45:902][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.21.45:902][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.21.45:902][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.21.45:902][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.21.45:902][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.21.45:903][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.21.45:903][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.21.45:903][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.21.45:903][504]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.21.45:910][504]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.21.45:910][504]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.21.45:929][504]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.21.45:929][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.21.45:929][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.21.45:930][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.21.45:931][504]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.21.45:931][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.21.45:931][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.21.45:933][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.21.45:933][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.21.45:933][504]LogInit: FAudioDevice initialized.
+[2022.07.10-23.21.45:933][504]LogAudio: Display: Audio Device (ID: 11) registered with world 'AnaHarita'.
+[2022.07.10-23.21.45:949][504]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.21.45:951][504]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.21.45
+[2022.07.10-23.21.45:952][504]LogWorld: Bringing up level for play took: 0.002113
+[2022.07.10-23.21.45:952][504]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.07.10-23.21.45:957][504]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.21.45:957][504]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.21.45:958][504]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.21.45:958][504]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.21.45:958][504]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.21.45:958][504]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.21.45:959][504]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.21.45:959][504]r.LightFunctionQuality = "1"
+[2022.07.10-23.21.45:959][504]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.21.45:959][504]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.21.45:959][504]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.21.45:959][504]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.21.45:959][504]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.21.45:959][504]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.21.45:966][504]PIE: Server logged in
+[2022.07.10-23.21.45:967][504]PIE: Play in editor total start time 0,208 seconds.
+[2022.07.10-23.22.00:228][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.22.00:228][571]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.22.00:228][571]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.22.00:229][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.22.00:252][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.22.00:275][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.22.00:384][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.22.00:384][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.22.00:386][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.22.00:390][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.22.00:405][571]LogUObjectHash: Compacting FUObjectHashTables data took  13.23ms
+[2022.07.10-23.22.00:456][572]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.07.10-23.22.06:709][231]BlueprintLog: New page: Compile puan
+[2022.07.10-23.22.06:931][231]LogUObjectHash: Compacting FUObjectHashTables data took  13.76ms
+[2022.07.10-23.22.08:407][330]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.22.08:418][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.22.08:419][330]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:22:08)
+[2022.07.10-23.22.08:419][330]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.22.08:439][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020487s)
+[2022.07.10-23.22.08:441][330]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.22.08:441][330]LogPlayLevel: PIE: World Init took: (0.001947s)
+[2022.07.10-23.22.08:441][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.022672s)
+[2022.07.10-23.22.08:569][330]LogUObjectHash: Compacting FUObjectHashTables data took  13.62ms
+[2022.07.10-23.22.08:570][330]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.07.10-23.22.08:570][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.22.08:570][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.22.08:570][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.22.08:570][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.22.08:570][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.22.08:570][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.22.08:570][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.22.08:570][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.22.08:571][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.22.08:571][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.22.08:571][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.22.08:571][330]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.22.08:577][330]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.22.08:577][330]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.22.08:596][330]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.22.08:597][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.22.08:597][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.22.08:597][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.22.08:598][330]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.22.08:598][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.22.08:598][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.22.08:600][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.22.08:600][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.22.08:600][330]LogInit: FAudioDevice initialized.
+[2022.07.10-23.22.08:600][330]LogAudio: Display: Audio Device (ID: 12) registered with world 'AnaHarita'.
+[2022.07.10-23.22.08:615][330]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.22.08:617][330]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.22.08
+[2022.07.10-23.22.08:618][330]LogWorld: Bringing up level for play took: 0.001860
+[2022.07.10-23.22.08:618][330]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.07.10-23.22.08:622][330]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.22.08:622][330]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.22.08:623][330]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.22.08:623][330]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.22.08:623][330]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.22.08:623][330]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.22.08:624][330]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.22.08:624][330]r.LightFunctionQuality = "1"
+[2022.07.10-23.22.08:624][330]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.22.08:625][330]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.22.08:625][330]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.22.08:625][330]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.22.08:625][330]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.22.08:625][330]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.22.08:632][330]PIE: Server logged in
+[2022.07.10-23.22.08:633][330]PIE: Play in editor total start time 0,217 seconds.
+[2022.07.10-23.22.24:139][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.22.24:139][454]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.22.24:139][454]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.22.24:140][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.22.24:156][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.22.24:178][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.22.24:288][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.22.24:288][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.22.24:290][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.22.24:294][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.22.24:306][454]LogUObjectHash: Compacting FUObjectHashTables data took  10.65ms
+[2022.07.10-23.22.24:352][455]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.07.10-23.23.55:943][486]BlueprintLog: New page: Compile teleport
+[2022.07.10-23.23.56:144][486]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2022.07.10-23.23.56:678][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.23.56:704][508]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportAC3BC5524ECE7EE2B4D8DA9CEF4C3A08.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.23.56:734][508]AssetCheck: New page: Asset Save: teleport
+[2022.07.10-23.23.56:734][508]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.23.59:881][716]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.23.59:893][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.23.59:893][716]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:23:59)
+[2022.07.10-23.23.59:916][716]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.23.59:937][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020965s)
+[2022.07.10-23.23.59:939][716]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.23.59:939][716]LogPlayLevel: PIE: World Init took: (0.001772s)
+[2022.07.10-23.23.59:939][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.023000s)
+[2022.07.10-23.24.00:073][716]LogUObjectHash: Compacting FUObjectHashTables data took  15.13ms
+[2022.07.10-23.24.00:074][716]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.07.10-23.24.00:074][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.24.00:074][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.24.00:074][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.24.00:074][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.24.00:074][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.24.00:074][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.24.00:074][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.24.00:074][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.24.00:075][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.24.00:075][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.24.00:075][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.24.00:075][716]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.24.00:081][716]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.24.00:081][716]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.24.00:101][716]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.24.00:102][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.24.00:102][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.24.00:102][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.24.00:103][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.24.00:103][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.24.00:103][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.24.00:105][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.24.00:105][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.24.00:105][716]LogInit: FAudioDevice initialized.
+[2022.07.10-23.24.00:105][716]LogAudio: Display: Audio Device (ID: 13) registered with world 'AnaHarita'.
+[2022.07.10-23.24.00:121][716]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.24.00:123][716]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.24.00
+[2022.07.10-23.24.00:124][716]LogWorld: Bringing up level for play took: 0.002021
+[2022.07.10-23.24.00:125][716]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.07.10-23.24.00:129][716]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.24.00:129][716]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.24.00:130][716]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.24.00:130][716]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.24.00:130][716]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.24.00:130][716]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.24.00:131][716]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.24.00:131][716]r.LightFunctionQuality = "1"
+[2022.07.10-23.24.00:131][716]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.24.00:131][716]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.24.00:131][716]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.24.00:131][716]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.24.00:131][716]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.24.00:132][716]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.24.00:138][716]PIE: Server logged in
+[2022.07.10-23.24.00:139][716]PIE: Play in editor total start time 0,248 seconds.
+[2022.07.10-23.24.20:558][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.24.20:558][180]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.24.20:558][180]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.24.20:559][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.24.20:580][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.24.20:601][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.24.20:710][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.24.20:710][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.24.20:712][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.24.20:721][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.24.20:735][180]LogUObjectHash: Compacting FUObjectHashTables data took  11.47ms
+[2022.07.10-23.24.20:780][181]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.07.10-23.24.41:707][253]LogEditorViewport: Clicking on Actor (LMB): teleport_C (teleport)
+[2022.07.10-23.24.42:444][310]Cmd: EDIT COPY
+[2022.07.10-23.24.43:055][361]Cmd: EDIT PASTE
+[2022.07.10-23.24.43:734][417]Cmd: EDIT PASTE
+[2022.07.10-23.24.43:939][432]Cmd: EDIT PASTE
+[2022.07.10-23.24.44:192][451]Cmd: EDIT PASTE
+[2022.07.10-23.25.10:781][664]Cmd: DELETE
+[2022.07.10-23.25.10:781][664]Cmd: ACTOR DELETE
+[2022.07.10-23.25.10:789][664]LogEditorActor: Deleted Actor: teleport_C
+[2022.07.10-23.25.10:790][664]LogEditorActor: Deleted Actor: teleport_C
+[2022.07.10-23.25.10:791][664]LogEditorActor: Deleted Actor: teleport_C
+[2022.07.10-23.25.10:792][664]LogEditorActor: Deleted Actor: teleport_C
+[2022.07.10-23.25.10:904][664]LogUObjectHash: Compacting FUObjectHashTables data took  10.63ms
+[2022.07.10-23.25.10:906][664]LogEditorActor: Deleted 4 Actors (0.125 secs)
+[2022.07.10-23.25.11:928][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.10-23.25.12:042][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.07.10-23.25.14:698][727]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHarita0B40664C4E25BEAAA3D3E49E80298F82.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.10-23.25.14:768][727]AssetCheck: New page: Asset Save: AnaHarita
+[2022.07.10-23.25.14:768][727]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.10-23.25.54:220][601]LogEditorViewport: Clicking on Actor (LMB): teleport_C (teleport)
+[2022.07.10-23.26.00:415][ 91]LogEditorViewport: Clicking on Actor (LMB): puan_C (puan)
+[2022.07.10-23.26.01:174][148]LogEditorViewport: Clicking on Actor (LMB): teleport_C (teleport)
+[2022.07.10-23.26.43:833][530]BlueprintLog: New page: Compile puan
+[2022.07.10-23.26.44:048][530]LogUObjectHash: Compacting FUObjectHashTables data took  14.85ms
+[2022.07.10-23.26.44:503][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.26.44:531][553]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puanF61C056B455784724357619CFBA67918.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.26.44:560][553]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.26.44:560][553]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.26.52:723][408]BlueprintLog: New page: Compile puan
+[2022.07.10-23.26.52:931][408]LogUObjectHash: Compacting FUObjectHashTables data took  14.66ms
+[2022.07.10-23.26.53:357][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.26.53:387][428]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan59CF42EC4C0154F7E3CE219FA27A1421.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.26.53:413][428]AssetCheck: New page: Asset Save: puan
+[2022.07.10-23.26.53:414][428]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.27.32:605][260]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.27.32:605][260]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.27.32:606][260]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.27.32:606][260]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.27.32:606][260]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.27.32:607][260]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.27.32:608][260]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.27.32:608][260]r.LightFunctionQuality = "1"
+[2022.07.10-23.27.32:608][260]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.27.32:608][260]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.27.32:608][260]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.27.32:608][260]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.27.37:293][530]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.27.37:293][530]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.27.37:294][530]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.27.37:294][530]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.27.37:294][530]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.27.37:294][530]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.27.37:296][530]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.27.37:296][530]r.LightFunctionQuality = "1"
+[2022.07.10-23.27.37:296][530]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.27.37:296][530]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.27.37:296][530]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.27.37:296][530]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.27.57:403][ 44]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainFile/Maps/AnaHarita.AnaHarita:PersistentLevel.AnaHarita
+[2022.07.10-23.28.54:547][684]BlueprintLog: New page: Compile AnaHarita
+[2022.07.10-23.28.54:834][684]LogUObjectHash: Compacting FUObjectHashTables data took  14.60ms
+[2022.07.10-23.28.55:065][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.10-23.28.55:194][685]LogUObjectHash: Compacting FUObjectHashTables data took  13.29ms
+[2022.07.10-23.28.57:832][685]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHarita34C8176A47999018C0A973B340EDE48B.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.10-23.28.57:854][685]LogFileHelpers: Saving map 'AnaHarita' took 2.789
+[2022.07.10-23.28.57:896][685]AssetCheck: New page: Asset Save: AnaHarita
+[2022.07.10-23.28.57:896][685]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.10-23.29.35:866][797]BlueprintLog: New page: Compile AnaHarita
+[2022.07.10-23.29.36:114][797]LogUObjectHash: Compacting FUObjectHashTables data took  13.74ms
+[2022.07.10-23.29.36:725][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.10-23.29.36:852][844]LogUObjectHash: Compacting FUObjectHashTables data took  11.01ms
+[2022.07.10-23.29.39:502][844]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHarita6D4317454F9BDCFBD41D48A549826A13.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.10-23.29.39:522][844]LogFileHelpers: Saving map 'AnaHarita' took 2.798
+[2022.07.10-23.29.39:560][844]AssetCheck: New page: Asset Save: AnaHarita
+[2022.07.10-23.29.39:560][844]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.10-23.29.41:762][997]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.29.41:776][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.29.41:776][997]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:29:41)
+[2022.07.10-23.29.41:776][997]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.29.41:797][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020276s)
+[2022.07.10-23.29.41:798][997]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.29.41:799][997]LogPlayLevel: PIE: World Init took: (0.001937s)
+[2022.07.10-23.29.41:799][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.022433s)
+[2022.07.10-23.29.41:925][997]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2022.07.10-23.29.41:929][997]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.07.10-23.29.41:930][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.29.41:930][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.29.41:930][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.29.41:930][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.29.41:930][997]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.29.41:930][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.29.41:930][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.29.41:930][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.29.41:931][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.29.41:931][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.29.41:931][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.29.41:931][997]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.29.41:937][997]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.29.41:937][997]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.29.41:957][997]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.29.41:958][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.29.41:958][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.29.41:958][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.29.41:959][997]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.29.41:959][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.29.41:959][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.29.41:961][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.29.41:962][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.29.41:962][997]LogInit: FAudioDevice initialized.
+[2022.07.10-23.29.41:962][997]LogAudio: Display: Audio Device (ID: 14) registered with world 'AnaHarita'.
+[2022.07.10-23.29.41:972][997]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.29.41:974][997]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.29.41
+[2022.07.10-23.29.41:975][997]LogWorld: Bringing up level for play took: 0.002107
+[2022.07.10-23.29.41:975][997]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.07.10-23.29.41:980][997]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.29.41:981][997]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.29.41:981][997]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.29.41:981][997]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.29.41:981][997]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.29.41:981][997]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.29.41:982][997]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.29.41:982][997]r.LightFunctionQuality = "1"
+[2022.07.10-23.29.41:982][997]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.29.41:982][997]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.29.41:983][997]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.29.41:983][997]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.29.41:983][997]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.29.41:983][997]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.29.41:988][997]PIE: Server logged in
+[2022.07.10-23.29.41:989][997]PIE: Play in editor total start time 0,216 seconds.
+[2022.07.10-23.30.01:018][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.30.01:018][470]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.30.01:018][470]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.30.01:019][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.30.01:043][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.30.01:096][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.30.01:213][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.30.01:213][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.30.01:215][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.30.01:219][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.30.01:231][470]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2022.07.10-23.30.01:289][471]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.07.10-23.30.27:549][227]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.30.27:549][227]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.30.27:550][227]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.30.27:550][227]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.30.27:550][227]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.30.27:550][227]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.30.27:552][227]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.30.27:552][227]r.LightFunctionQuality = "1"
+[2022.07.10-23.30.27:552][227]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.30.27:552][227]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.30.27:553][227]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.30.27:553][227]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.30.34:180][756]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.30.34:180][756]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.30.34:181][756]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.30.34:181][756]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.30.34:181][756]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.30.34:181][756]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.30.34:182][756]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.30.34:182][756]r.LightFunctionQuality = "1"
+[2022.07.10-23.30.34:182][756]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.30.34:182][756]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.30.34:182][756]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.30.34:183][756]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.30.36:467][940]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.30.36:467][940]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.30.36:468][940]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.30.36:468][940]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.30.36:468][940]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.30.36:468][940]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.30.36:469][940]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.30.36:470][940]r.LightFunctionQuality = "1"
+[2022.07.10-23.30.36:470][940]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.30.36:470][940]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.30.36:470][940]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.30.36:470][940]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.30.43:734][696]BlueprintLog: New page: Compile AnaHarita
+[2022.07.10-23.30.43:984][696]LogUObjectHash: Compacting FUObjectHashTables data took  13.18ms
+[2022.07.10-23.30.44:485][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.10-23.30.44:614][734]LogUObjectHash: Compacting FUObjectHashTables data took  11.60ms
+[2022.07.10-23.30.47:258][734]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHarita2679D7EE439ED5917FC4328F36D66C86.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.10-23.30.47:280][734]LogFileHelpers: Saving map 'AnaHarita' took 2.796
+[2022.07.10-23.30.47:338][734]AssetCheck: New page: Asset Save: AnaHarita
+[2022.07.10-23.30.47:338][734]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.10-23.31.07:452][925]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.10-23.31.07:465][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.10-23.31.07:465][925]PIE: New page: PIE session: AnaHarita (11 Tem 2022 05:31:07)
+[2022.07.10-23.31.07:496][925]LogPlayLevel: Creating play world package: /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.31.07:516][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020304s)
+[2022.07.10-23.31.07:518][925]LogAIModule: Creating AISystem for world AnaHarita
+[2022.07.10-23.31.07:518][925]LogPlayLevel: PIE: World Init took: (0.002026s)
+[2022.07.10-23.31.07:519][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainFile/Maps/AnaHarita.AnaHarita to /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita (0.022645s)
+[2022.07.10-23.31.07:646][925]LogUObjectHash: Compacting FUObjectHashTables data took  10.38ms
+[2022.07.10-23.31.07:648][925]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.07.10-23.31.07:648][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.10-23.31.07:648][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.10-23.31.07:648][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.10-23.31.07:648][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.10-23.31.07:648][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.10-23.31.07:648][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.10-23.31.07:648][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.10-23.31.07:648][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.10-23.31.07:649][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.10-23.31.07:649][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.10-23.31.07:649][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.10-23.31.07:649][925]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.10-23.31.07:656][925]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.10-23.31.07:656][925]LogAudioMixer: Display: 1: FrontRight
+[2022.07.10-23.31.07:674][925]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.10-23.31.07:675][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.10-23.31.07:675][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.10-23.31.07:675][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.10-23.31.07:677][925]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.10-23.31.07:677][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.10-23.31.07:677][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.10-23.31.07:679][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.10-23.31.07:679][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.10-23.31.07:679][925]LogInit: FAudioDevice initialized.
+[2022.07.10-23.31.07:679][925]LogAudio: Display: Audio Device (ID: 15) registered with world 'AnaHarita'.
+[2022.07.10-23.31.07:690][925]LogLoad: Game class is 'MyGameMode_C'
+[2022.07.10-23.31.07:691][925]LogWorld: Bringing World /Game/MainFile/Maps/UEDPIE_0_AnaHarita.AnaHarita up for play (max tick rate 0) at 2022.07.11-02.31.07
+[2022.07.10-23.31.07:692][925]LogWorld: Bringing up level for play took: 0.001742
+[2022.07.10-23.31.07:692][925]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.07.10-23.31.07:697][925]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 4.0
+[2022.07.10-23.31.07:697][925]r.VolumetricCloud.DistanceToSampleMaxCount = "4"
+[2022.07.10-23.31.07:697][925]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.10-23.31.07:697][925]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.10-23.31.07:697][925]Cmd: r.VolumetricRenderTarget 1
+[2022.07.10-23.31.07:697][925]r.VolumetricRenderTarget = "1"
+[2022.07.10-23.31.07:698][925]Cmd: r.LightFunctionQuality 1
+[2022.07.10-23.31.07:698][925]r.LightFunctionQuality = "1"
+[2022.07.10-23.31.07:698][925]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.10-23.31.07:699][925]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.10-23.31.07:699][925]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.10-23.31.07:699][925]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.10-23.31.07:699][925]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.10-23.31.07:699][925]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.10-23.31.07:705][925]PIE: Server logged in
+[2022.07.10-23.31.07:706][925]PIE: Play in editor total start time 0,244 seconds.
+[2022.07.10-23.31.50:928][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.31.50:928][352]LogWorld: BeginTearingDown for /Game/MainFile/Maps/UEDPIE_0_AnaHarita
+[2022.07.10-23.31.50:928][352]LogWorld: UWorld::CleanupWorld for AnaHarita, bSessionEnded=true, bCleanupResources=true
+[2022.07.10-23.31.50:928][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.31.50:942][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.10-23.31.50:994][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.10-23.31.51:107][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.10-23.31.51:107][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.31.51:109][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.10-23.31.51:114][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.10-23.31.51:128][352]LogUObjectHash: Compacting FUObjectHashTables data took  11.21ms
+[2022.07.10-23.31.51:187][353]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:395][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.17:396][198]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-23.32.18:062][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGameStateBase" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/Blueprints/MyGameStateBase.uasset" SILENT=true
+[2022.07.10-23.32.18:069][198]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/MyGameStateBase4BF25C044202EF147E30B5B4E0CE1A33.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/Blueprints/MyGameStateBase.uasset'
+[2022.07.10-23.32.18:071][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/AnaKarakter" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/AnaKarakter.uasset" SILENT=true
+[2022.07.10-23.32.18:095][198]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaKarakter8F26D8AD4DF805A65BB8DFAB255C7D28.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/AnaKarakter.uasset'
+[2022.07.10-23.32.18:099][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/puan" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset" SILENT=true
+[2022.07.10-23.32.18:123][198]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/puan005D35B446FAF242642F1CBC40110BED.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/puan.uasset'
+[2022.07.10-23.32.18:126][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleport" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset" SILENT=true
+[2022.07.10-23.32.18:144][198]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleport838ACD8C4A537BE35C7D25B8A30F4772.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleport.uasset'
+[2022.07.10-23.32.18:148][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleportmat" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat.uasset" SILENT=true
+[2022.07.10-23.32.18:151][198]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportmat55603FE1421A550B3F85629FF999D377.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat.uasset'
+[2022.07.10-23.32.18:155][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Blueprints/teleportmat2" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat2.uasset" SILENT=true
+[2022.07.10-23.32.18:158][198]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/teleportmat28D1D25F1430287588F2A2FAFFA7F5DDD.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Blueprints/teleportmat2.uasset'
+[2022.07.10-23.32.18:162][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.10-23.32.18:290][198]LogUObjectHash: Compacting FUObjectHashTables data took  10.54ms
+[2022.07.10-23.32.20:911][198]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHarita9816484B46158EDAA4E3ABA6D58E62CE.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.10-23.32.20:932][198]LogFileHelpers: Saving map 'AnaHarita' took 2.771
+[2022.07.10-23.32.28:205][198]LogSlate: Window 'Submit Files' being destroyed
+[2022.07.10-23.32.32:847][198]LogSourceControl: commit successful: [main 130fe94] deneme
+[2022.07.10-23.32.33:189][198]SourceControl: [main 130fe94] deneme
+[2022.07.10-23.32.33:189][198]SourceControl:  7 files changed, 19 insertions(+), 4 deletions(-)
+[2022.07.10-23.32.33:189][198]SourceControl:  create mode 100644 Content/Blueprints/MyGameStateBase.uasset
+[2022.07.10-23.32.33:189][198]SourceControl:  create mode 100644 Content/MainFile/Blueprints/puan.uasset
+[2022.07.10-23.32.33:189][198]SourceControl:  create mode 100644 Content/MainFile/Blueprints/teleport.uasset
+[2022.07.10-23.32.33:189][198]SourceControl:  create mode 100644 Content/MainFile/Blueprints/teleportmat.uasset
+[2022.07.10-23.32.33:189][198]SourceControl:  create mode 100644 Content/MainFile/Blueprints/teleportmat2.uasset
+[2022.07.10-23.32.33:200][198]SourceControl: Commited [main 130fe94] deneme.
+[2022.07.10-23.32.33:258][199]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.10-23.32.33:258][199]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.10-23.32.33:258][199]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/AnaKarakter.AnaKarakter
+[2022.07.10-23.32.33:258][199]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/puan.puan
+[2022.07.10-23.32.33:259][199]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/teleport.teleport
+[2022.07.10-23.32.33:259][199]LogContentValidation: Display: Validating Material /Game/MainFile/Blueprints/teleportmat.teleportmat
+[2022.07.10-23.32.33:259][199]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MyGameStateBase.MyGameStateBase
+[2022.07.10-23.32.33:259][199]LogContentValidation: Display: Validating Material /Game/MainFile/Blueprints/teleportmat2.teleportmat2
