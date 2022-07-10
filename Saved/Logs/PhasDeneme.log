@@ -1002,3 +1002,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.10-22.08.02:314][741]SourceControl: Commited [main 7bbd299] Editör ayarları.
 [2022.07.10-22.08.02:366][742]AssetCheck: New page: Asset Save: AnaHarita
 [2022.07.10-22.08.02:367][742]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.10-22.17.37:878][322]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.17.39:995][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.07.10-22.17.39:999][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFile/Maps/AnaHarita' took 0.041
+[2022.07.10-22.17.40:010][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainFile/Blueprints/MyGameMode] ([2] browsable assets)...
+[2022.07.10-22.17.40:010][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainFile/Blueprints/MyGameMode]
+[2022.07.10-22.17.40:020][327]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/MyGameMode_Auto1515D63A94CABA7A33BE4588C301B9CB8.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Autosaves/Game/MainFile/Blueprints/MyGameMode_Auto1.uasset'
+[2022.07.10-22.17.40:022][327]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.07.10-22.18.11:421][422]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.18.34:313][490]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.18.53:049][546]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.19.10:191][597]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.19.36:761][676]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.20.00:577][747]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.35.50:687][156]LogActorFactory: Actor Factory created Cube
+[2022.07.10-22.35.51:849][267]LogActorFactory: Actor Factory created Cube
+[2022.07.10-22.35.54:999][576]LogActorFactory: Actor Factory created Cube
+[2022.07.10-22.35.55:225][589]LogActorFactory: Actor Factory created Cube
+[2022.07.10-22.35.57:655][823]Cmd: DELETE
+[2022.07.10-22.35.57:656][823]Cmd: ACTOR DELETE
+[2022.07.10-22.35.57:661][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.10-22.35.57:697][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.07.10-22.35.57:701][823]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.07.10-22.37.30:732][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.07.10-22.37.33:526][857]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHarita_Auto22133BE7C4F3D76B6B92244A1CCE37174.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Autosaves/Game/MainFile/Maps/AnaHarita_Auto2.umap'
+[2022.07.10-22.37.33:528][857]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainFile/Maps/AnaHarita' took 2.833
+[2022.07.10-22.37.33:528][857]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.833
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:239][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:240][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:241][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:241][578]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.10-22.37.51:570][578]EditorErrors: Warning: No assets to check in!
+[2022.07.10-22.39.10:194][107]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.39.32:710][174]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.40.00:082][255]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.40.17:094][306]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.40.37:245][366]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.10-22.40.56:224][422]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
