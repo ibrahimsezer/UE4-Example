@@ -4860,3 +4860,254 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.11-21.22.48:822][643]AssetCheck: New page: Asset Save: multiple assets
 [2022.07.11-21.22.48:822][643]LogContentValidation: Display: Validating Blueprint /Game/MainFile/Blueprints/AnaKarakter.AnaKarakter
 [2022.07.11-21.22.48:823][643]LogContentValidation: Display: Validating AnimBlueprint /Game/MainFile/Karakter/KarakterAnim.KarakterAnim
+[2022.07.11-21.24.48:704][829]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.24.48:704][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.24.48:800][829]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.24.48:800][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.24.49:473][880]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.24.49:474][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.24.49:489][880]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.24.49:490][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.24.49:627][880]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.24.49:627][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.24.50:348][954]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.24.50:349][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.27.03:049][131]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MainFile/Karakter/KarakterAnim.KarakterAnim
+[2022.07.11-21.27.03:061][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.11-21.27.03:061][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:248][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:372][131]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.11-21.27.04:391][132]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:408][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:419][134]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:430][135]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:440][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:450][137]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:460][138]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:470][139]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:480][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:490][141]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:502][142]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:514][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:526][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.04:537][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	KarakterAnim_C /Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.KarakterAnim_C_0
+	Function /Game/MainFile/Karakter/KarakterAnim.KarakterAnim_C:ExecuteUbergraph_KarakterAnim:0106
+[2022.07.11-21.27.06:046][253]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.27.06:047][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.27.06:063][253]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.27.06:063][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.27.06:208][253]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-21.27.06:208][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-21.27.07:007][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.11-21.27.07:177][302]LogUObjectHash: Compacting FUObjectHashTables data took  10.77ms
+[2022.07.11-21.27.09:782][302]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHarita94F1CD3F4679AF26650E16A943C2391E.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.11-21.27.09:841][302]AssetCheck: New page: Asset Save: AnaHarita
+[2022.07.11-21.27.09:841][302]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:891][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.18:892][988]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.27.20:248][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.11-21.27.20:383][988]LogUObjectHash: Compacting FUObjectHashTables data took  13.75ms
+[2022.07.11-21.27.23:010][988]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHaritaEBD2F1104FF722B72857B6A8FDB5732D.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.11-21.27.23:033][988]LogFileHelpers: Saving map 'AnaHarita' took 2.785
+[2022.07.11-21.27.24:830][988]LogSlate: Window 'Submit Files' being destroyed
+[2022.07.11-21.27.24:864][989]AssetCheck: New page: Asset Save: AnaHarita
+[2022.07.11-21.27.24:864][989]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.11-21.27.51:065][ 93]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.11-21.28.16:907][170]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.11-21.28.51:521][994]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2022.07.11-21.28.53:078][994]LogSlate: Window 'Save Content' being destroyed
+[2022.07.11-21.28.53:323][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Akai_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Akai_MAT.uasset" SILENT=true
+[2022.07.11-21.28.53:336][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Akai_MAT0C82A5CF464123E8457F72902758E877.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Akai_MAT.uasset'
+[2022.07.11-21.28.54:503][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Body_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Body_MAT.uasset" SILENT=true
+[2022.07.11-21.28.54:516][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Body_MATE292B420409A6A048F61028277CB6A86.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Body_MAT.uasset'
+[2022.07.11-21.28.55:709][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/erika_archer" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer.uasset" SILENT=true
+[2022.07.11-21.28.55:854][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/erika_archerD06432284C80F0F94A1E2CB996E00525.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer.uasset'
+[2022.07.11-21.28.57:640][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Erika_Archer_Clothes_diffuseF4FB2B1344F16F00D23D1F94F0236E47.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Erika_Archer_Clothes_diffuse.uasset'
+[2022.07.11-21.28.59:516][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Erika_Archer_Clothes_normal2D962A9A4F9ECD7F5525FE94B5DDB574.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Erika_Archer_Clothes_normal.uasset'
+[2022.07.11-21.29.00:862][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/erika_archer_PhysicsAssetE35A9DF24620382B3C2070816D1B40FB.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer_PhysicsAsset.uasset'
+[2022.07.11-21.29.01:981][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/erika_archer_Skeleton" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer_Skeleton.uasset" SILENT=true
+[2022.07.11-21.29.01:986][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/erika_archer_Skeleton2E8A0945453C91A12772CE9542B64E84.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer_Skeleton.uasset'
+[2022.07.11-21.29.03:088][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/EyeSpec_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/EyeSpec_MAT.uasset" SILENT=true
+[2022.07.11-21.29.03:101][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/EyeSpec_MAT3BDB2A2B40EDCCCDF475E0A2B8457BC2.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/EyeSpec_MAT.uasset'
+[2022.07.11-21.29.04:206][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Falling_Idle" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Falling_Idle.uasset" SILENT=true
+[2022.07.11-21.29.04:219][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Falling_IdleBE1382A843AAE0ABDD9992995C94604F.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Falling_Idle.uasset'
+[2022.07.11-21.29.06:013][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/FemaleFitA_Body_diffuse736811E74CDB92E514AD26B27725AD04.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_Body_diffuse.uasset'
+[2022.07.11-21.29.07:983][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/FemaleFitA_Body_diffuse_ncl1_11DF5F80C469748771BC5B0BB9E999835.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_Body_diffuse_ncl1_1.uasset'
+[2022.07.11-21.29.09:163][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/FemaleFitA_StdNM" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_StdNM.uasset" SILENT=true
+[2022.07.11-21.29.09:702][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/FemaleFitA_StdNM280EAA494FCC01F10AA299BE3BFCB1AD.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_StdNM.uasset'
+[2022.07.11-21.29.10:869][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Jumping_Down" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Down.uasset" SILENT=true
+[2022.07.11-21.29.10:883][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Jumping_Down200ABD834F132A824A6CC0A83689AE17.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Down.uasset'
+[2022.07.11-21.29.12:070][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Jumping_Up" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Up.uasset" SILENT=true
+[2022.07.11-21.29.12:084][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Jumping_Up850C024344DEFA509A091FBBE5960FFF.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Up.uasset'
+[2022.07.11-21.29.13:290][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Lashes_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Lashes_MAT.uasset" SILENT=true
+[2022.07.11-21.29.13:301][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Lashes_MAT1694B3C74CDC5F4BB11605B9C54F3EC2.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Lashes_MAT.uasset'
+[2022.07.11-21.29.14:490][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Run" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Run.uasset" SILENT=true
+[2022.07.11-21.29.14:503][994]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/RunC88FE7E54B41C7514AE8398C48A86571.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Run.uasset'
+[2022.07.11-21.29.15:721][994]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Run.Run
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating PhysicsAsset /Game/MainFile/Karakter/erika_archer_PhysicsAsset.erika_archer_PhysicsAsset
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating Skeleton /Game/MainFile/Karakter/erika_archer_Skeleton.erika_archer_Skeleton
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/Body_MAT.Body_MAT
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/FemaleFitA_Body_diffuse_ncl1_1.FemaleFitA_Body_diffuse_ncl1_1
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/Lashes_MAT.Lashes_MAT
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/FemaleFitA_StdNM.FemaleFitA_StdNM
+[2022.07.11-21.29.15:721][994]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/FemaleFitA_Body_diffuse.FemaleFitA_Body_diffuse
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/EyeSpec_MAT.EyeSpec_MAT
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/Erika_Archer_Clothes_normal.Erika_Archer_Clothes_normal
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/Erika_Archer_Clothes_diffuse.Erika_Archer_Clothes_diffuse
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/Akai_MAT.Akai_MAT
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating SkeletalMesh /Game/MainFile/Karakter/erika_archer.erika_archer
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Falling_Idle.Falling_Idle
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Jumping_Down.Jumping_Down
+[2022.07.11-21.29.15:722][994]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Jumping_Up.Jumping_Up
+[2022.07.11-21.29.24:279][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:279][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:279][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:279][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:279][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:279][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:279][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.24:280][609]SourceControl: fatal: D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4(4.27.2)/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme'
+[2022.07.11-21.29.25:834][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Akai_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Akai_MAT.uasset" SILENT=true
+[2022.07.11-21.29.25:837][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Akai_MAT9525AACF4DF03E09EC61C7BF86D15947.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Akai_MAT.uasset'
+[2022.07.11-21.29.25:838][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Body_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Body_MAT.uasset" SILENT=true
+[2022.07.11-21.29.25:841][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Body_MATD8D69BFA420C3BF683D87C956231EA79.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Body_MAT.uasset'
+[2022.07.11-21.29.25:843][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/erika_archer" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer.uasset" SILENT=true
+[2022.07.11-21.29.25:991][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/erika_archer98FDFB534631F32C4A8F579F2B9B08CC.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer.uasset'
+[2022.07.11-21.29.26:112][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Erika_Archer_Clothes_diffuse27367AD146170E60838309B6BC9ED597.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Erika_Archer_Clothes_diffuse.uasset'
+[2022.07.11-21.29.26:235][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Erika_Archer_Clothes_normalB73534944258DB1BAE71F6B33A890D2B.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Erika_Archer_Clothes_normal.uasset'
+[2022.07.11-21.29.26:252][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/erika_archer_PhysicsAssetB1BB6B2443F4E1D3B44C77B9FE7FA7AA.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer_PhysicsAsset.uasset'
+[2022.07.11-21.29.26:255][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/erika_archer_Skeleton" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer_Skeleton.uasset" SILENT=true
+[2022.07.11-21.29.26:260][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/erika_archer_Skeleton6DBC23EF402E26D4251042AF39E8CB18.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/erika_archer_Skeleton.uasset'
+[2022.07.11-21.29.26:262][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/EyeSpec_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/EyeSpec_MAT.uasset" SILENT=true
+[2022.07.11-21.29.26:265][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/EyeSpec_MAT5F5A4CC0447FAF91612BAC944B81A59D.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/EyeSpec_MAT.uasset'
+[2022.07.11-21.29.26:267][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Falling_Idle" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Falling_Idle.uasset" SILENT=true
+[2022.07.11-21.29.26:272][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Falling_Idle14151F494B7F4397FB4A55AA15C488DF.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Falling_Idle.uasset'
+[2022.07.11-21.29.26:430][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/FemaleFitA_Body_diffuse523FDCD2415D4C75DE1947837422BE7C.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_Body_diffuse.uasset'
+[2022.07.11-21.29.26:599][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/FemaleFitA_Body_diffuse_ncl1_18CE1E3EB4D7DDD25BA18D8B75AB11BE2.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_Body_diffuse_ncl1_1.uasset'
+[2022.07.11-21.29.26:602][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/FemaleFitA_StdNM" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_StdNM.uasset" SILENT=true
+[2022.07.11-21.29.26:703][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/FemaleFitA_StdNM5259B68B4EF469235C9A308000B55C79.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/FemaleFitA_StdNM.uasset'
+[2022.07.11-21.29.26:705][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Jumping_Down" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Down.uasset" SILENT=true
+[2022.07.11-21.29.26:711][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Jumping_Down8A88A5254107C4C2A28E31908EF0C1FD.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Down.uasset'
+[2022.07.11-21.29.26:712][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Jumping_Up" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Up.uasset" SILENT=true
+[2022.07.11-21.29.26:718][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Jumping_Up6039E8A144B72A4BB938EEBA106CAB89.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Jumping_Up.uasset'
+[2022.07.11-21.29.26:720][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Lashes_MAT" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Lashes_MAT.uasset" SILENT=true
+[2022.07.11-21.29.26:723][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/Lashes_MAT4C7DB5174D82F39D03B6BBADC9F61179.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Lashes_MAT.uasset'
+[2022.07.11-21.29.26:725][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Karakter/Run" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Run.uasset" SILENT=true
+[2022.07.11-21.29.26:730][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/RunAF870A774C95CB2D79F3B59BF0A3FF4B.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Karakter/Run.uasset'
+[2022.07.11-21.29.26:733][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainFile/Maps/AnaHarita" FILE="C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.11-21.29.26:810][609]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.07.11-21.29.29:717][609]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Saved/AnaHaritaDEAF015147308A9BD2CD4CA4EF8DB815.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/PhasDeneme/Content/MainFile/Maps/AnaHarita.umap'
+[2022.07.11-21.29.29:739][609]LogFileHelpers: Saving map 'AnaHarita' took 3.006
+[2022.07.11-21.29.33:359][609]LogSlate: Window 'Submit Files' being destroyed
+[2022.07.11-21.29.39:862][609]LogSourceControl: commit successful: [main 892f9b1] animasayon
+[2022.07.11-21.29.40:096][609]SourceControl: [main 892f9b1] animasayon
+[2022.07.11-21.29.40:096][609]SourceControl:  17 files changed, 49 insertions(+), 1 deletion(-)
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Akai_MAT.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Body_MAT.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Erika_Archer_Clothes_diffuse.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Erika_Archer_Clothes_normal.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/EyeSpec_MAT.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Falling_Idle.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/FemaleFitA_Body_diffuse.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/FemaleFitA_Body_diffuse_ncl1_1.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/FemaleFitA_StdNM.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Jumping_Down.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Jumping_Up.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Lashes_MAT.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/Run.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/erika_archer.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/erika_archer_PhysicsAsset.uasset
+[2022.07.11-21.29.40:096][609]SourceControl:  create mode 100644 Content/MainFile/Karakter/erika_archer_Skeleton.uasset
+[2022.07.11-21.29.40:108][609]SourceControl: Commited [main 892f9b1] animasayon.
+[2022.07.11-21.29.40:165][610]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Run.Run
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating PhysicsAsset /Game/MainFile/Karakter/erika_archer_PhysicsAsset.erika_archer_PhysicsAsset
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating Skeleton /Game/MainFile/Karakter/erika_archer_Skeleton.erika_archer_Skeleton
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/Body_MAT.Body_MAT
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/FemaleFitA_Body_diffuse_ncl1_1.FemaleFitA_Body_diffuse_ncl1_1
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/Lashes_MAT.Lashes_MAT
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/FemaleFitA_StdNM.FemaleFitA_StdNM
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/FemaleFitA_Body_diffuse.FemaleFitA_Body_diffuse
+[2022.07.11-21.29.40:165][610]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/EyeSpec_MAT.EyeSpec_MAT
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/Erika_Archer_Clothes_normal.Erika_Archer_Clothes_normal
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating Texture2D /Game/MainFile/Karakter/Erika_Archer_Clothes_diffuse.Erika_Archer_Clothes_diffuse
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating World /Game/MainFile/Maps/AnaHarita.AnaHarita
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating Material /Game/MainFile/Karakter/Akai_MAT.Akai_MAT
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating SkeletalMesh /Game/MainFile/Karakter/erika_archer.erika_archer
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Falling_Idle.Falling_Idle
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Jumping_Down.Jumping_Down
+[2022.07.11-21.29.40:166][610]LogContentValidation: Display: Validating AnimSequence /Game/MainFile/Karakter/Jumping_Up.Jumping_Up
